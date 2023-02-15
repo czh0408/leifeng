@@ -4,9 +4,9 @@
 江西红色文化
 
 #### 软件架构
-软件架构说明
 
-
+![输入图片说明](image.png)![输入图片说明](image1.png)
+![输入图片说明](image2.png)![输入图片说明](image3.png)![输入图片说明](image4.png)![输入图片说明](image5.png)![输入图片说明](image6.png)![输入图片说明](image7.png)![输入图片说明](image8.png)![输入图片说明](image9.png)![输入图片说明](image10.png)![输入图片说明](image11.png)
 #### 安装教程
 
 1.  xxxx

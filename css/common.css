@@ -50,13 +50,15 @@ body {
 .header {
     width: 100%;
     height: 120px;
-    background-color: rgb(255,255,255);
+    /* background-color: rgb(255,255,255); */
     cursor: pointer;
 }
 .header-ul {
-    width: 1200px;
+    width: 90%;
     height: 100%;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
 }
 .header-ul a {
     color: black;
@@ -72,10 +74,10 @@ body {
     margin-right: 5px;
 }
 .header-li-two {
-    margin: 0 80px;
+    margin: 0 0px;
 }
 .header-logo {
-    margin: 0 126px;
+    margin: 0 0px;
 }
 .header-logo img {
     width: 120px;
